@@ -1,0 +1,14 @@
+model\EstadoService.class
+model\RodoviaService.class
+View\Application.class
+model\Microrregioes.class
+model\MicrorregioesService.class
+model\Aeroporto.class
+model\MunicipioService.class
+model\Rodovia.class
+util\JPAUtil.class
+model\AeroportoService.class
+model\MesorregioesService.class
+model\Estado.class
+model\Mesorregioes.class
+model\Municipio.class
